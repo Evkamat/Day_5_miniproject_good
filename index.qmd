@@ -1,11 +1,5 @@
 ---
-title: "Day_5_miniprojec_good"
+title: "Day 5 miniproject"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+# This is our nice Quarto website for day 5 miniproject
+There can be something more
