@@ -1,0 +1,7 @@
+---
+title: "Project overview"
+format: html
+---
+
+# The Idea
+This project will be nice and shiny but we'll have to think about it first

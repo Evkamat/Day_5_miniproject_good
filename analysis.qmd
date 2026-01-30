@@ -1,0 +1,11 @@
+---
+title: "Workflow"
+format: html
+---
+
+# Analysis example
+If you wan to plot histogram of your data you can do it like this
+
+```{r}
+hist(rnorm(1000),breaks = 40)
+```
