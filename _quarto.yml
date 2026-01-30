@@ -6,10 +6,10 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Project overview
 
-      - href: overview.qmd
-        text: Overview
+      - href: data_documentation.qmd
+        text: Data documentation
 
 format:
   html:
