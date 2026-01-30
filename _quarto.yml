@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Miniproject miniwebsite"
@@ -10,6 +11,11 @@ website:
 
       - href: data_documentation.qmd
         text: Data documentation
+
+      - href: analysis.qmd
+        text: Analysis
+
+
 
 format:
   html:

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Day 5 miniproject",
+    "section": "",
+    "text": "Overview\nThere can be something more but there is not"
+  },
+  {
+    "objectID": "data_documentation.html",
+    "href": "data_documentation.html",
+    "title": "Project overview",
+    "section": "",
+    "text": "The Idea\nThis project will be nice and shiny but we’ll have to think about it first"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "analysis.html",
+    "href": "analysis.html",
+    "title": "Workflow",
+    "section": "",
+    "text": "Analysis example\nIf you wan to plot histogram of your data you can do it like this\n\nhist(rnorm(1000),breaks = 40)"
+  }
+]
