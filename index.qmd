@@ -1,5 +1,5 @@
 ---
 title: "Day 5 miniproject"
 ---
-# This is our nice Quarto website for day 5 miniproject
-There can be something more
+# Overview
+There can be something more but there is not
