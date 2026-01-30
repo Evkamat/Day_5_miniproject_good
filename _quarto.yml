@@ -11,6 +11,9 @@ website:
       - href: data_documentation.qmd
         text: Data documentation
 
+      - href: analysis.qmd
+        text: Analysis
+
 format:
   html:
     theme:
